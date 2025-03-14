@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Javascript+Developer;Coding+Girl;Creative+Coder;Computer+Science+Student" alt="Typing SVG" />
 
 
-<h3> Welcome to my showcase of learning, trying, and growing</h2>
+<h2> Welcome to my showcase of learning, trying, and growing</h2>
 <div align="center">
  
   
