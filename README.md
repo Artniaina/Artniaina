@@ -1,12 +1,7 @@
 <div align="center">
-<h1>
-Hi, I am Kanto 
-</h1>
+
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Javascript+Developer;Coding+Girl;Software+Engineer;Creative+Coder;Problem+Solver" alt="Typing SVG" />
 
-  <blockquote>
-    <p><em>"Code is like humor. When you have to explain it, it's bad."</em> — Cory House</p>
-  </blockquote>
 
 <h3> Welcome to my showcase of learning, trying, and growing</h2>
   <div align="center">
