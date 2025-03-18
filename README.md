@@ -1,13 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Web+and+Mobile+Developer;Creative+Coder;Computer+Science+Student" alt="Typing SVG" />
+  <div>
+<div>
+ 
+ <img src="https://github.com/user-attachments/assets/efe542ad-34f5-42d4-a4cf-adbf0e202529" width="100" height='50' alt="Pixel art workspace with purple city view">
+</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=HI,+I+AM+KANTO" alt="Typing SVG" />
+
+<div align="center">
+<div align="center">
+<div style="text-align: center; margin: 0; padding: 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=1&pause=1000&color=FF69B4&vCenter=true&width=435&lines=I+AM+A" alt="Typing SVG" style="margin: 0; padding: 0;">
+</div>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=WEB+DEVELOPER;MOBILE+CODER;CS+STUDENT" alt="Typing SVG" />
+</div>
+ 
+
 <div align="center">
  
   
-  <blockquote style="font-family: 'Fira Code', monospace; font-size: 22px; color: #444; background-color: #f7f7f7; padding: 20px; border-left: 5px solid #FF69B4; border-radius: 8px; max-width: 800px; margin: 0 auto;">
-    "The best way to predict the future is to invent it." <br><br> 
-    <em style="font-size: 18px; color: #FF69B4;">— Alan Kay</em>
-  </blockquote>
+ 
   
 </div>
 
