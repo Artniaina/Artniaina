@@ -11,7 +11,7 @@
 <div>
  <img src="https://github.com/user-attachments/assets/efe542ad-34f5-42d4-a4cf-adbf0e202529" width="100" height='50' alt="Pixel art workspace with purple city view">
 </div>
-<h2> Welcome to my showcase of learning, trying, and growing</h2>
+<h3><em> " Building stuff, breaking stuff, and learning along the way "</em></h3>
 
   <div align="center">
 
