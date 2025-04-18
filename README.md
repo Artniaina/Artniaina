@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=28&duration=1&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=HI,+I+AM+KANTO" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=28&duration=1&pause=1000&color=FDCBFF&center=true&vCenter=true&width=435&lines=HI,+I+AM+KANTO" alt="Typing SVG" />
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=FF69B4&vCenter=true&width=110&lines=I+AM+A" alt="Typing SVG">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FF69B4&center=false&vCenter=true&width=260&lines=COMPSCI+STUDENT;WEB+DEVELOPER;MOBILE+DEVELOPER;CREATIVE+CODER;JUNIOR+DEVELOPER" alt="Typing SVG">
